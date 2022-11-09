@@ -1,2 +1,2 @@
 # message_encoder_decoder
-Encodes and decodes messages
+Provides a GUI to encode and decode messages.
